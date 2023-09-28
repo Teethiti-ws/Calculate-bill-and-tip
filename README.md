@@ -1,4 +1,4 @@
-#This is practise ReactJs project about Calculate bill and tip(Your tip and Your friend tip).
+# This is practise ReactJs project about Calculate bill and tip(Your tip and Your friend tip).
 
 # Getting Started with Create React App
 
